@@ -1,5 +1,5 @@
 #                  CADENAS DE TEXTO
-"""Crea un programa llamado SumaSecuencia.py que le pida al usuario una secuencia de números separados por
+"""Ejecicio 1: Crea un programa llamado SumaSecuencia.py que le pida al usuario una secuencia de números separados por
 espacios y calcule la suma total de esos números."""
 
 numeros = input("digita numeros")
