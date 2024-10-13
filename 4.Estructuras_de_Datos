@@ -1,0 +1,13 @@
+#                  CADENAS DE TEXTO
+"""Crea un programa llamado SumaSecuencia.py que le pida al usuario una secuencia de números separados por
+espacios y calcule la suma total de esos números."""
+
+numeros = input("digita numeros")
+resultado = numeros.replace(" ","")
+suma = 0
+
+for i in range(len(resultado)):
+    suma = int(resultado[i]) + suma
+
+print(suma)
+print("\n\n")
