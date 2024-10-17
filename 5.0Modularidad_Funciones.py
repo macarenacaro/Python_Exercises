@@ -16,7 +16,7 @@ print(f"El máximo común divisor de {num1} y {num2} es {mcd(num1, num2)}")"""
 
 """2.Una función llamada esPrimo que reciba un número como parámetro y devuelva un booleano indicando
 si el número es primo o no """ #Solo se dividen por ellos y el número 1 
-"""def esPrimo(n):
+def esPrimo(n):
     if n <= 1:# si es menor o igual que 1, no es primo
         return False #Si es primo 
     
@@ -29,7 +29,7 @@ si el número es primo o no """ #Solo se dividen por ellos y el número 1
     return True #Si no se encuentra ningún número que divide al número
             
 primo = int(input("Introduce un número: "))
-print(f"{primo} es primo: {esPrimo(int(primo))}")"""
+print(f"{primo} es primo: {esPrimo(int(primo))}")
          
 
 """Desde el programa principal, llama a la función mcd para 
@@ -38,9 +38,9 @@ calcular el máximo común divisor de 20 y 12 (debería dar 4),
 
 #Función para calcular los primos del 1 al 50
 
-"""for i in range(1, 51):
+for i in range(1, 51):
     if esPrimo(i):
-        print(i, end=" ")"""
+        print(i, end=" ")
 
 
 
@@ -49,7 +49,7 @@ Crea un programa llamado Contar.py que reciba como parámetros del programa prin
  y realice un conteo desde el primero hasta el segundo. Si no se reciben los dos datos mostraremos un mensaje
    de error y finalizaremos."""
 
-"""def contar(num1, num2):
+def contar(num1, num2):
 
     try:
         if int(num1) and int(num2):
@@ -64,7 +64,7 @@ num1 = input("Introduce el primer número: ")
 num2 = input("Introduce el segundo número: ")
 
 contar(num1, num2)
-"""
+
 
 """Ejercicio3:
 Crea un programa llamado Loteria.py que le pida al usuario que introduzca los 6 números que juega
