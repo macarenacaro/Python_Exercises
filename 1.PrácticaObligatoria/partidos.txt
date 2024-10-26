@@ -1,0 +1,380 @@
+Leganes#1#Alaves#0
+Valencia#1#Las Palmas#0
+Celta#2#R Sociedad#3
+Girona#2#At Madrid#2
+Sevilla#1#Espanyol#1
+Ath Bilbao#0#Getafe#0
+Barcelona#2#Betis#0
+La Coruna#0#Real Madrid#3
+Levante#1#Villarreal#0
+Malaga#0#Eibar#1
+Betis#2#Celta#1
+R Sociedad#3#Villarreal#0
+Alaves#0#Barcelona#2
+Girona#1#Malaga#0
+Las Palmas#1#At Madrid#5
+Levante#2#La Coruna#2
+Eibar#0#Ath Bilbao#1
+Espanyol#0#Leganes#1
+Getafe#0#Sevilla#1
+Real Madrid#2#Valencia#2
+Leganes#1#Getafe#2
+Barcelona#5#Espanyol#0
+Real Madrid#1#Levante#1
+Sevilla#3#Eibar#0
+Valencia#0#At Madrid#0
+Ath Bilbao#2#Girona#0
+Celta#1#Alaves#0
+La Coruna#2#R Sociedad#4
+Villarreal#3#Betis#1
+Malaga#1#Las Palmas#3
+Eibar#1#Leganes#0
+At Madrid#1#Malaga#0
+Betis#2#La Coruna#1
+Getafe#1#Barcelona#2
+Levante#1#Valencia#1
+Alaves#0#Villarreal#3
+Girona#0#Sevilla#1
+Las Palmas#1#Ath Bilbao#0
+R Sociedad#1#Real Madrid#3
+Espanyol#2#Celta#1
+Barcelona#6#Eibar#1
+Valencia#5#Malaga#0
+Ath Bilbao#1#At Madrid#2
+La Coruna#1#Alaves#0
+Leganes#0#Girona#0
+Real Madrid#0#Betis#1
+Sevilla#1#Las Palmas#0
+Celta#1#Getafe#1
+Levante#3#R Sociedad#0
+Villarreal#0#Espanyol#0
+Alaves#1#Real Madrid#2
+At Madrid#2#Sevilla#0
+Girona#0#Barcelona#3
+Malaga#3#Ath Bilbao#3
+Eibar#0#Celta#4
+Espanyol#4#La Coruna#1
+Getafe#4#Villarreal#0
+Las Palmas#0#Leganes#2
+R Sociedad#2#Valencia#3
+Betis#4#Levante#0
+Celta#3#Girona#3
+La Coruna#2#Getafe#1
+Leganes#0#At Madrid#0
+Levante#0#Alaves#2
+Sevilla#2#Malaga#0
+Barcelona#3#Las Palmas#0
+Real Madrid#2#Espanyol#0
+R Sociedad#4#Betis#4
+Valencia#3#Ath Bilbao#2
+Villarreal#3#Eibar#0
+Espanyol#0#Levante#0
+Alaves#0#R Sociedad#2
+Ath Bilbao#1#Sevilla#0
+At Madrid#1#Barcelona#1
+Getafe#1#Real Madrid#2
+Betis#3#Valencia#6
+Eibar#0#La Coruna#0
+Girona#1#Villarreal#2
+Malaga#0#Leganes#2
+Las Palmas#2#Celta#5
+Barcelona#2#Malaga#0
+Betis#2#Alaves#0
+Levante#1#Getafe#1
+Valencia#4#Sevilla#0
+Celta#0#At Madrid#1
+Leganes#1#Ath Bilbao#0
+Real Madrid#3#Eibar#0
+Villarreal#4#Las Palmas#0
+La Coruna#1#Girona#2
+R Sociedad#1#Espanyol#1
+Alaves#1#Valencia#2
+Ath Bilbao#0#Barcelona#2
+At Madrid#1#Villarreal#1
+Sevilla#2#Leganes#1
+Eibar#2#Levante#2
+Getafe#2#R Sociedad#1
+Girona#2#Real Madrid#1
+Malaga#2#Celta#1
+Espanyol#1#Betis#0
+Las Palmas#1#La Coruna#3
+Betis#2#Getafe#2
+Alaves#1#Espanyol#0
+Barcelona#2#Sevilla#1
+La Coruna#0#At Madrid#1
+Valencia#3#Leganes#0
+Celta#3#Ath Bilbao#1
+Levante#1#Girona#2
+Real Madrid#3#Las Palmas#0
+R Sociedad#3#Eibar#1
+Villarreal#2#Malaga#0
+Girona#1#R Sociedad#1
+At Madrid#0#Real Madrid#0
+Getafe#4#Alaves#1
+Leganes#0#Barcelona#3
+Sevilla#2#Celta#1
+Ath Bilbao#1#Villarreal#1
+Espanyol#0#Valencia#2
+Las Palmas#0#Levante#2
+Malaga#3#La Coruna#2
+Eibar#5#Betis#0
+Celta#1#Leganes#0
+Alaves#1#Eibar#2
+Betis#2#Girona#2
+Levante#0#At Madrid#5
+Real Madrid#3#Malaga#2
+La Coruna#2#Ath Bilbao#2
+R Sociedad#2#Las Palmas#2
+Valencia#1#Barcelona#1
+Villarreal#2#Sevilla#3
+Espanyol#1#Getafe#0
+Malaga#0#Levante#0
+Ath Bilbao#0#Real Madrid#0
+At Madrid#2#R Sociedad#1
+Barcelona#2#Celta#2
+Sevilla#2#La Coruna#0
+Eibar#3#Espanyol#1
+Getafe#1#Valencia#0
+Las Palmas#1#Betis#0
+Leganes#3#Villarreal#1
+Girona#2#Alaves#3
+Alaves#2#Las Palmas#0
+Getafe#0#Eibar#0
+La Coruna#1#Leganes#0
+Real Madrid#5#Sevilla#0
+Valencia#2#Celta#1
+Betis#0#At Madrid#1
+Levante#1#Ath Bilbao#2
+R Sociedad#0#Malaga#2
+Villarreal#0#Barcelona#2
+Espanyol#0#Girona#1
+Sevilla#0#Levante#0
+Ath Bilbao#0#R Sociedad#0
+At Madrid#1#Alaves#0
+Eibar#2#Valencia#1
+Barcelona#4#La Coruna#0
+Celta#0#Villarreal#1
+Girona#1#Getafe#0
+Las Palmas#2#Espanyol#2
+Malaga#0#Betis#2
+Levante#0#Leganes#0
+Getafe#2#Las Palmas#0
+R Sociedad#3#Sevilla#1
+Alaves#1#Malaga#0
+Eibar#4#Girona#1
+Betis#0#Ath Bilbao#2
+Espanyol#1#At Madrid#0
+La Coruna#1#Celta#3
+Real Madrid#0#Barcelona#3
+Valencia#0#Villarreal#1
+At Madrid#2#Getafe#0
+Las Palmas#1#Eibar#2
+Sevilla#3#Betis#5
+Valencia#2#Girona#1
+Ath Bilbao#2#Alaves#0
+Barcelona#3#Levante#0
+Celta#2#Real Madrid#2
+Leganes#1#R Sociedad#0
+Villarreal#1#La Coruna#1
+Malaga#0#Espanyol#1
+Getafe#1#Malaga#0
+Eibar#0#At Madrid#1
+Girona#6#Las Palmas#0
+La Coruna#1#Valencia#2
+Real Madrid#0#Villarreal#1
+Alaves#1#Sevilla#0
+Espanyol#1#Ath Bilbao#1
+Levante#0#Celta#1
+R Sociedad#2#Barcelona#4
+Betis#3#Leganes#2
+Getafe#2#Ath Bilbao#2
+At Madrid#1#Girona#1
+Espanyol#0#Sevilla#3
+Las Palmas#2#Valencia#1
+Villarreal#2#Levante#1
+Alaves#2#Leganes#2
+Betis#0#Barcelona#5
+Real Madrid#7#La Coruna#1
+R Sociedad#1#Celta#2
+Eibar#1#Malaga#1
+Ath Bilbao#1#Eibar#1
+La Coruna#2#Levante#2
+Malaga#0#Girona#0
+Valencia#1#Real Madrid#4
+Villarreal#4#R Sociedad#2
+At Madrid#3#Las Palmas#0
+Barcelona#2#Alaves#1
+Leganes#3#Espanyol#2
+Sevilla#1#Getafe#1
+Celta#3#Betis#2
+R Sociedad#5#La Coruna#0
+Alaves#2#Celta#1
+Betis#2#Villarreal#1
+Eibar#5#Sevilla#1
+Levante#2#Real Madrid#2
+At Madrid#1#Valencia#0
+Espanyol#1#Barcelona#1
+Getafe#0#Leganes#0
+Girona#2#Ath Bilbao#0
+Las Palmas#1#Malaga#0
+Ath Bilbao#0#Las Palmas#0
+Leganes#0#Eibar#1
+Malaga#0#At Madrid#1
+Real Madrid#5#R Sociedad#2
+Villarreal#1#Alaves#2
+Barcelona#0#Getafe#0
+Celta#2#Espanyol#2
+Sevilla#1#Girona#0
+Valencia#3#Levante#1
+La Coruna#0#Betis#1
+Girona#3#Leganes#0
+Alaves#1#La Coruna#0
+Eibar#0#Barcelona#2
+Las Palmas#1#Sevilla#2
+Malaga#1#Valencia#2
+At Madrid#2#Ath Bilbao#0
+Betis#3#Real Madrid#5
+Espanyol#1#Villarreal#1
+R Sociedad#3#Levante#0
+Getafe#3#Celta#0
+Leganes#1#Real Madrid#3
+La Coruna#0#Espanyol#0
+Barcelona#6#Girona#1
+Celta#2#Eibar#0
+Leganes#0#Las Palmas#0
+Real Madrid#4#Alaves#0
+Ath Bilbao#2#Malaga#1
+Sevilla#2#At Madrid#5
+Valencia#2#R Sociedad#1
+Villarreal#1#Getafe#0
+Levante#0#Betis#2
+Espanyol#1#Real Madrid#0
+Girona#1#Celta#0
+Ath Bilbao#1#Valencia#1
+At Madrid#4#Leganes#0
+Eibar#1#Villarreal#0
+Getafe#3#La Coruna#0
+Malaga#0#Sevilla#1
+Alaves#1#Levante#0
+Betis#0#R Sociedad#0
+Las Palmas#1#Barcelona#1
+La Coruna#1#Eibar#1
+Leganes#2#Malaga#0
+Real Madrid#3#Getafe#1
+Sevilla#2#Ath Bilbao#0
+Villarreal#0#Girona#2
+Barcelona#1#At Madrid#0
+Levante#1#Espanyol#1
+R Sociedad#2#Alaves#1
+Valencia#2#Betis#0
+Celta#2#Las Palmas#1
+Girona#2#La Coruna#0
+Eibar#1#Real Madrid#2
+Getafe#0#Levante#1
+Malaga#0#Barcelona#2
+Sevilla#0#Valencia#2
+Ath Bilbao#2#Leganes#0
+At Madrid#3#Celta#0
+Espanyol#2#R Sociedad#1
+Las Palmas#0#Villarreal#2
+Alaves#1#Betis#3
+Levante#2#Eibar#1
+Betis#3#Espanyol#0
+La Coruna#1#Las Palmas#1
+R Sociedad#1#Getafe#2
+Valencia#3#Alaves#1
+Barcelona#2#Ath Bilbao#0
+Celta#0#Malaga#0
+Leganes#2#Sevilla#1
+Real Madrid#6#Girona#3
+Villarreal#2#At Madrid#1
+Ath Bilbao#1#Celta#1
+Girona#1#Levante#1
+Las Palmas#0#Real Madrid#3
+Sevilla#2#Barcelona#2
+At Madrid#1#La Coruna#0
+Eibar#0#R Sociedad#0
+Espanyol#0#Alaves#0
+Leganes#0#Valencia#1
+Malaga#1#Villarreal#0
+Getafe#0#Betis#1
+La Coruna#3#Malaga#2
+Alaves#2#Getafe#0
+Barcelona#3#Leganes#1
+Betis#2#Eibar#0
+Celta#4#Sevilla#0
+Levante#2#Las Palmas#1
+Real Madrid#1#At Madrid#1
+R Sociedad#5#Girona#0
+Valencia#1#Espanyol#0
+Villarreal#1#Ath Bilbao#3
+Girona#0#Betis#1
+Ath Bilbao#2#La Coruna#3
+Barcelona#2#Valencia#1
+Las Palmas#0#R Sociedad#1
+Leganes#1#Celta#0
+Sevilla#2#Villarreal#2
+At Madrid#3#Levante#0
+Eibar#0#Alaves#1
+Getafe#1#Espanyol#0
+Malaga#1#Real Madrid#2
+Celta#2#Barcelona#2
+La Coruna#0#Sevilla#0
+Villarreal#2#Leganes#1
+Espanyol#0#Eibar#1
+Real Madrid#1#Ath Bilbao#1
+Valencia#1#Getafe#2
+Alaves#1#Girona#2
+Betis#1#Las Palmas#0
+Levante#1#Malaga#0
+R Sociedad#3#At Madrid#0
+Leganes#0#La Coruna#0
+Celta#1#Valencia#1
+Eibar#0#Getafe#1
+At Madrid#0#Betis#0
+Girona#0#Espanyol#2
+Las Palmas#0#Alaves#4
+Malaga#2#R Sociedad#0
+Ath Bilbao#1#Levante#3
+Levante#2#Sevilla#1
+Espanyol#1#Las Palmas#1
+Real Madrid#2#Leganes#1
+R Sociedad#3#Ath Bilbao#1
+Villarreal#4#Celta#1
+Alaves#0#At Madrid#1
+Getafe#1#Girona#1
+La Coruna#2#Barcelona#4
+Valencia#0#Eibar#0
+Betis#2#Malaga#1
+Sevilla#1#R Sociedad#0
+Ath Bilbao#2#Betis#0
+Celta#1#La Coruna#1
+Girona#1#Eibar#4
+Villarreal#1#Valencia#0
+At Madrid#0#Espanyol#2
+Barcelona#2#Real Madrid#2
+Las Palmas#0#Getafe#1
+Malaga#0#Alaves#3
+Leganes#0#Levante#3
+Barcelona#5#Villarreal#1
+Sevilla#3#Real Madrid#2
+Alaves#3#Ath Bilbao#1
+Betis#2#Sevilla#2
+Eibar#1#Las Palmas#0
+Getafe#0#At Madrid#1
+Girona#0#Valencia#1
+La Coruna#2#Villarreal#4
+Real Madrid#6#Celta#0
+R Sociedad#3#Leganes#2
+Espanyol#4#Malaga#1
+Levante#5#Barcelona#4
+Celta#4#Levante#2
+Las Palmas#1#Girona#2
+Leganes#3#Betis#2
+Malaga#0#Getafe#1
+Sevilla#1#Alaves#0
+Villarreal#2#Real Madrid#2
+Ath Bilbao#0#Espanyol#1
+At Madrid#2#Eibar#2
+Barcelona#1#R Sociedad#0
+Valencia#2#La Coruna#1
