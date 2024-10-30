@@ -1,0 +1,12 @@
+sdi222a,5,Valladolid,Posesión de armas
+rgt424c,3,Zaragoza,Robo con violencia
+uyj352y,6,Alicante,Destrozo de mobiliario público
+ads122f,3,Santander,Robo con violencia
+tks294j,2,Alicante,Robo con violencia
+rti348q,9,Cáceres,Tráfico de drogas
+sar287a,6,Zaragoza,Falsificación de documentos
+sus247p,10,Pamplona,Conducción temeraria
+sdo387q,11,Valladolid,Agresión a la autoridad
+ewo238k,3,Zaragoza,Conducción temeraria
+aow975l,6,Alicante,Obstrucción a la justicia
+aso397u,5,Sevilla,Conducción temeraria
